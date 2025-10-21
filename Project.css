@@ -646,10 +646,14 @@ img {
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
-
+.prev{
+    left: 0;
+    max-width: 10%;
+}
 
 .next {
   right: 0;
+  margin-left: 90%;
   border-radius: 3px 0 0 3px;
 }
 
